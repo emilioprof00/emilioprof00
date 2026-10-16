@@ -1,60 +1,150 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 🛡️ Portafolio de Ciberseguridad | Redes y Sistemas
 
-[Brief Introduction - Remove this afterwards]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Aprendiendo+Ciberseguridad;Pentesting+%7C+Blue+Team;Linux+%7C+Windows+%7C+Redes;Aprender%2C+Practicar+y+Documentar" alt="Presentación de ciberseguridad" />
+</p>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Ciberseguridad-En%20formaci%C3%B3n-2F81F7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ciberseguridad en formación" />
+  <img src="https://img.shields.io/badge/Pentesting-En%20aprendizaje-red?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Pentesting en aprendizaje" />
+  <img src="https://img.shields.io/badge/Defensa%20de%20Redes-En%20aprendizaje-228B22?style=for-the-badge&logo=cisco&logoColor=white" alt="Defensa de redes" />
+</p>
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 👨‍💻 Sobre mí
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Soy un profesional de la informática en proceso de formación especializada en **ciberseguridad, administración de sistemas y redes informáticas**.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Actualmente desarrollo prácticas en entornos virtualizados con VMware, utilizando sistemas Linux y Windows para comprender la infraestructura informática, identificar vulnerabilidades, analizar riesgos y aplicar medidas de seguridad.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Mi objetivo es fortalecer progresivamente mis competencias técnicas mediante laboratorios prácticos, documentación de procedimientos y análisis de resultados.
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- 🔐 **Seguridad ofensiva:** reconocimiento, pentesting y evaluación de vulnerabilidades en laboratorios autorizados.
+- 🛡️ **Seguridad defensiva:** fortalecimiento de sistemas, revisión de registros y mitigación de riesgos.
+- 🐧 **Administración Linux:** uso de Kali Linux y Ubuntu Server.
+- 🪟 **Entornos Windows:** administración y análisis de seguridad de Windows Server y Windows 10/11.
+- 🌐 **Redes:** fundamentos, direccionamiento IP, simulación y diagnóstico con herramientas Cisco.
+- 🧪 **Laboratorios:** VMware Workstation y máquinas virtuales de práctica.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🧰 Tecnologías y herramientas
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### 🖥️ Sistemas operativos
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Windows_10%2F11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 10 y 11" />
+</p>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🌐 Redes y virtualización
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+<p>
+  <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-Conceptos_de_redes-1565C0?style=for-the-badge" alt="TCP/IP" />
+</p>
+
+### 🔎 Seguridad y análisis
+
+<p>
+  <img src="https://img.shields.io/badge/Greenbone%2FOpenVAS-4CAF50?style=for-the-badge&logo=linux&logoColor=white" alt="Greenbone OpenVAS" />
+  <img src="https://img.shields.io/badge/Nmap-Reconocimiento-4682B4?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Pentesting-Laboratorios_controlados-B22222?style=for-the-badge" alt="Pentesting" />
+  <img src="https://img.shields.io/badge/Blue_Team-Seguridad_defensiva-228B22?style=for-the-badge" alt="Blue Team" />
+</p>
+
+> Las herramientas indicadas representan mi entorno de aprendizaje y las tecnologías que estudio o utilizo en prácticas. Su inclusión no implica dominio profesional de todas ellas.
+
+## 📚 Formación en ciberseguridad y redes
+
+### ✅ Cursos realizados o en desarrollo inicial
+
+- 🐧 **Linux Unhatched**
+- 🌐 **Introducción a Cisco Packet Tracer**
+
+### 📖 Cursos en proceso
+
+- 🔌 **CCNA: Introduction to Networks**
+- 🐧 **Linux Essentials**
+- 🛡️ **Defensa de la red**
+- 🌐 **Exploración de redes con Cisco Packet Tracer**
+- 🔐 **Ethical Hacker**
+
+> El estado de cada curso se actualizará según mi progreso real y su finalización.
+
+## 🧪 Laboratorios y proyectos prácticos
+
+Este apartado reúne los proyectos que iré desarrollando y documentando progresivamente.
+
+| N.º | Proyecto | Área | Estado |
+|---|---|---|---|
+| 01 | 🖥️ Laboratorio virtual con VMware | Infraestructura | 🟡 En planificación |
+| 02 | 🌐 Diseño y diagnóstico de redes con Packet Tracer | Redes | 🟡 En planificación |
+| 03 | 🔎 Reconocimiento de red y servicios | Pentesting | 🟡 En planificación |
+| 04 | 🛡️ Análisis de vulnerabilidades con Greenbone/OpenVAS | Seguridad | 🟡 En planificación |
+| 05 | 🐧 Fortalecimiento de Ubuntu Server | Linux / Blue Team | 🟡 En planificación |
+| 06 | 🪟 Auditoría básica de Windows Server | Windows / Blue Team | 🟡 En planificación |
+| 07 | 📊 Análisis de registros y eventos de seguridad | Blue Team | 🟡 En planificación |
+| 08 | 🚨 Investigación de incidentes simulados | Respuesta a incidentes | 🟡 En planificación |
+
+Los estados se modificarán cuando cada proyecto tenga procedimientos, evidencias, resultados y conclusiones documentados.
+
+## 🎯 Objetivos de aprendizaje
+
+- Comprender el funcionamiento de redes y protocolos de comunicación.
+- Administrar sistemas Linux y Windows en entornos virtualizados.
+- Identificar servicios expuestos y evaluar configuraciones de seguridad.
+- Aprender a interpretar resultados de análisis de vulnerabilidades.
+- Aplicar medidas de fortalecimiento y verificar su eficacia.
+- Analizar registros y reconocer eventos relevantes para la seguridad.
+- Elaborar informes técnicos claros y reproducibles.
+- Desarrollar buenas prácticas de seguridad y uso responsable de herramientas.
+
+## 📝 Metodología de trabajo
+
+Cada proyecto procurará incluir:
+
+1. 🎯 Objetivo y alcance.
+2. 🧱 Arquitectura y descripción del laboratorio.
+3. 🧰 Herramientas y versiones utilizadas.
+4. ⚙️ Procedimiento realizado.
+5. 📸 Evidencias técnicas sanitizadas.
+6. 🔍 Resultados y análisis de hallazgos.
+7. 🛠️ Recomendaciones y medidas correctivas.
+8. ✅ Verificación posterior y conclusiones.
+
+## 🔗 Recursos oficiales
+
+| Recurso | Enlace |
+|---|---|
+| 🐙 GitHub | [https://github.com](https://github.com) |
+| 🐧 Kali Linux | [https://www.kali.org](https://www.kali.org) |
+| 🐧 Ubuntu Server | [https://ubuntu.com/server](https://ubuntu.com/server) |
+| 🌐 Cisco Networking Academy | [https://www.netacad.com](https://www.netacad.com) |
+| 🧪 Cisco Packet Tracer | [Información oficial](https://www.netacad.com/courses/packet-tracer) |
+| 🔎 Greenbone Community Edition | [Documentación oficial](https://greenbone.github.io/docs/latest/) |
+| 🗺️ Nmap | [Guía oficial](https://nmap.org/book/) |
+| 🖥️ VMware Workstation | [Sitio oficial de VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) |
+
+## ⚖️ Uso responsable de la ciberseguridad
+
+Todas las pruebas de seguridad se realizan exclusivamente en laboratorios propios, sistemas deliberadamente vulnerables o entornos para los que dispongo de autorización expresa.
+
+Este portafolio tiene fines educativos y profesionales. No se publican credenciales, tokens, datos personales ni información sensible de redes o sistemas.
+
+## 📈 Mi progreso
+
+Este repositorio representa mi proceso de aprendizaje continuo. Cada proyecto documentado será una oportunidad para consolidar conocimientos, mejorar mis habilidades prácticas y desarrollar una metodología de trabajo responsable.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aprender-01-2F81F7?style=flat-square" alt="Aprender" />
+  <img src="https://img.shields.io/badge/Practicar-02-228B22?style=flat-square" alt="Practicar" />
+  <img src="https://img.shields.io/badge/Documentar-03-8A2BE2?style=flat-square" alt="Documentar" />
+  <img src="https://img.shields.io/badge/Mejorar-04-FF8C00?style=flat-square" alt="Mejorar" />
+</p>
+
+---
+
+<p align="center">
+  <b>🔐 La seguridad se aprende practicando, analizando y mejorando continuamente.</b>
+</p>
